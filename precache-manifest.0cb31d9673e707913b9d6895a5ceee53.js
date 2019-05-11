@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/Game2048/static/js/runtime~main.f72e5985.js"
   },
   {
-    "revision": "20f5ae79f211df85c409",
-    "url": "/Game2048/static/js/main.31a13a45.chunk.js"
+    "revision": "8ce9d530453f5e066121",
+    "url": "/Game2048/static/js/main.9e64eced.chunk.js"
   },
   {
-    "revision": "221beba9f20da561b388",
-    "url": "/Game2048/static/js/2.fa21c9a7.chunk.js"
+    "revision": "8b7192c2802fce177f40",
+    "url": "/Game2048/static/js/2.80d23cf0.chunk.js"
   },
   {
-    "revision": "20f5ae79f211df85c409",
-    "url": "/Game2048/static/css/main.4ad3a1d6.chunk.css"
+    "revision": "8ce9d530453f5e066121",
+    "url": "/Game2048/static/css/main.1b7a8bda.chunk.css"
   },
   {
-    "revision": "221beba9f20da561b388",
+    "revision": "8b7192c2802fce177f40",
     "url": "/Game2048/static/css/2.f2910be6.chunk.css"
   },
   {
-    "revision": "70909836c333a29ff87792efbb36a21e",
+    "revision": "8831d21c13e9c5ea7c1eacd35935d463",
     "url": "/Game2048/index.html"
   }
 ];
